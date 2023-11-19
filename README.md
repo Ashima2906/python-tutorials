@@ -1,2 +1,3 @@
 # python-tutorials
 A comprehensive and great source to begin python with.........
+It does contains all sort of the concepts used in python till date and would be updated soon too..
